@@ -2,11 +2,15 @@ Nuuchis-Gamemodes
 =================
 
 ##### What is it?
-*A multi-gamemodes script for VC:MP.*
+*A multi-gamemode script for _VC:MP_, which is a online modification for Grand Theft Auto Vice City.*
+
 ##### Who made it?
-*A random guy who used to play VC:MP quite alot... Name's _Knucis_, what's up?*
+*A random guy who used to play VC:MP quite alot... 
+
+*Name's _Knucis_, what's up?*
+
 ##### What gamemodes will it include?
-*I am planning to add a ton of team based gamemodes*
+*I am planning to add a ton of team based gamemodes, but we'll see...*
 
 | Gamemode | Progress |
 |:----------:|:----------:|
