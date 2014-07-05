@@ -12,9 +12,9 @@ Nuuchis-Gamemodes
 
 | Gamemode | Progress |
 |:----------:|:----------:|
-|Attack and Defence   | 80%  |
-|King of the Hill     | 5%   |
-|Team Deathmatch      | 5%   |
+|Attack and Defence   | 90%  |
+|King of the Hill     | 80%  |
+|Team Deathmatch      | 10%  |
 |Capture the flag     | 0%   |
 |Protect the King     | 0%   |
 |And probably more... |---   |
